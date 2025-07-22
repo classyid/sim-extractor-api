@@ -186,22 +186,22 @@ curl -X POST "https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec" \
 ### Extracted SIM Data
 | Field | Type | Description | Example |
 |-------|------|-------------|---------|
-| `nomor_sim` | string | Nomor SIM | "1534-8211-001569" |
-| `nama` | string | Nama lengkap | "ANDRI WIRATMONO" |
-| `tempat_tanggal_lahir` | string | Tempat, tanggal lahir | "KEDIRI, 23-11-1982" |
+| `nomor_sim` | string | Nomor SIM | "xx" |
+| `nama` | string | Nama lengkap | "xx" |
+| `tempat_tanggal_lahir` | string | Tempat, tanggal lahir | "xx" |
 | `jenis_kelamin` | string | Jenis kelamin | "PRIA" / "WANITA" |
 | `golongan_darah` | string | Golongan darah | "A", "B", "AB", "O" |
-| `alamat` | string | Alamat lengkap | "BTN REJOMULYO VII/22" |
-| `rt_rw` | string | RT/RW | "RT 03 RW 06" |
+| `alamat` | string | Alamat lengkap | "xx" |
+| `rt_rw` | string | RT/RW | "xx" |
 | `desa_kelurahan` | string | Desa/Kelurahan | "KELURAHAN CONTOH" |
 | `kecamatan` | string | Kecamatan | "KECAMATAN CONTOH" |
-| `kota` | string | Kota | "KOTA KEDIRI" |
-| `tinggi` | string | Tinggi badan (cm) | "170" |
-| `pekerjaan` | string | Pekerjaan | "KARYAWAN SWASTA" |
+| `kota` | string | Kota | "xx" |
+| `tinggi` | string | Tinggi badan (cm) | "xx" |
+| `pekerjaan` | string | Pekerjaan | "xx" |
 | `golongan_sim` | string | Golongan SIM | "A", "B", "C", "D" |
-| `berlaku_hingga` | string | Tanggal berlaku | "22-11-2027" |
-| `dikeluarkan_di` | string | Tempat penerbitan | "JATIM" |
-| `instansi_penerbit` | string | Instansi penerbit | "POLDA METRO JAYA" |
+| `berlaku_hingga` | string | Tanggal berlaku | "xx7" |
+| `dikeluarkan_di` | string | Tempat penerbitan | "xx" |
+| `instansi_penerbit` | string | Instansi penerbit | "xx" |
 
 ---
 
